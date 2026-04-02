@@ -1,4 +1,4 @@
-# Oi 👋, eu sou Lorenzo
+# Oi 👋, eu sou Lorenzo Gotuzzo
 
 🚀 **Software Engineer | TypeScript, NestJS, React & AI Solutions**  
 🇧🇷 Brasil
@@ -22,15 +22,11 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
-
+- 🏗️ **Software Architecture:** Especialista em design de sistemas escaláveis utilizando **Clean Architecture**, **Hexagonal Architecture** e **DDD**.
+- ⚙️ **Backend Engineering:** Desenvolvimento de APIs de alta performance com **NestJS (TypeScript)**, foco em integração resiliente e escalabilidade.
+- 🤖 **AI Engineering:** Construção de agentes inteligentes, fluxos conversacionais e soluções com **LLMs**, **Dialogflow CX** e **GCP**.
+- 🩺 **Domain Expertise (HealthTech):** Atuação em plataformas de saúde, prontuários eletrônicos e automação de fluxos clínicos.
+- 🎨 **Frontend Engineering:** Arquitetura de interfaces modernas com **React**, com foco em **UX**, acessibilidade e performance.
 ---
 
 ## 🛠️ Tech Stack
