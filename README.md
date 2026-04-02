@@ -1,4 +1,4 @@
-# Oi 👋, eu sou Herbert Souza
+# Oi 👋, eu sou Lorenzo
 
 🚀 **Software Engineer | TypeScript, NestJS, React & AI Solutions**  
 🇧🇷 Brasil
@@ -13,8 +13,8 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
   <a href="https://github.com/Lorenbou">
     <img src="https://img.shields.io/badge/GitHub-Lorenbou-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/herbert-souza-9b0b3b3b3/">
-    <img src="https://img.shields.io/badge/Linkedin-@OREIDOSITES-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lorenzoseverogotuzzo14/">
+    <img src="https://img.shields.io/badge/Linkedin-@lorenzoseverogotuzzo14-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
