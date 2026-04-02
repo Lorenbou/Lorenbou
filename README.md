@@ -48,6 +48,7 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lorenbou&theme=tokyonight)
 
 ### DevOps & Tools
 
@@ -64,6 +65,7 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lorenbou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenbou&layout=compact&theme=tokyonight&include_all_commits=true" />
 </p>
+
 
 ---
 
