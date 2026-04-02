@@ -65,7 +65,6 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
   <img height="170" src="https://github-readme-stats-ashen-kappa-27.vercel.app/api/top-langs/?username=Lorenbou&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
 ⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório
