@@ -1,16 +1,13 @@
-# Hi 👋, I'm Herbert Souza
+# Oi 👋, eu sou Herbert Souza
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+🚀 **Software Engineer | TypeScript, NestJS, React & AI Solutions**  
+🇧🇷 Brasil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiência do usuário**. Atuo em projetos de healthtech criando **APIs robustas**, **interfaces acessíveis**, **integrações em nuvem e assistentes inteligentes**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Lorenbou">
