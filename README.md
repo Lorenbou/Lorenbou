@@ -20,13 +20,15 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
 
 ---
 
-## 🧠 What I do
+## 🎯 Core Competencies & Best Practices
 
 - 🏗️ **Software Architecture:** Especialista em design de sistemas escaláveis utilizando **Clean Architecture**, **Hexagonal Architecture** e **DDD**.
 - ⚙️ **Backend Engineering:** Desenvolvimento de APIs de alta performance com **NestJS (TypeScript)**, foco em integração resiliente e escalabilidade.
 - 🤖 **AI Engineering:** Construção de agentes inteligentes, fluxos conversacionais e soluções com **LLMs**, **Dialogflow CX** e **GCP**.
 - 🩺 **Domain Expertise (HealthTech):** Atuação em plataformas de saúde, prontuários eletrônicos e automação de fluxos clínicos.
 - 🎨 **Frontend Engineering:** Arquitetura de interfaces modernas com **React**, com foco em **UX**, acessibilidade e performance.
+- 🚀 **Best Practices:** **Código limpo**, **desacoplamento**, **reutilização**, **testes**, **documentação** e foco em **manutenção de longo prazo**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -65,12 +67,5 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
 
 ---
 
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório
+🤝 Sempre aberto a colaborações, parcerias e boas ideias
