@@ -61,7 +61,7 @@ Desenvolvedor focado em **arquitetura de software**, **IA generativa e experiên
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-ashen-kappa-27.vercel.app/api?username=Lorenbou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-ashen-kappa-27.vercel.app/api?username=Lorenbou&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="170" src="https://github-readme-stats-ashen-kappa-27.vercel.app/api/top-langs/?username=Lorenbou&layout=compact&theme=tokyonight" />
 </p>
 
